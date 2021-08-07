@@ -6,5 +6,5 @@ CXX_DEFINES =
 
 CXX_INCLUDES = 
 
-CXX_FLAGS =  -Os -DF_CPU=16000000UL -mmcu=atmega2560 -g -std=gnu++11
+CXX_FLAGS =  -Os -DF_CPU=16000000UL -mmcu=atmega2560 -std=gnu++11
 
