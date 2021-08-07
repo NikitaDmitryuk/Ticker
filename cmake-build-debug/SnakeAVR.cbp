@@ -82,6 +82,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/nikita/Yandex.Disk/My_programm/SnakeAVR/AvrControl.cpp">
+			<Option target="SnakeAVR"/>
+		</Unit>
+		<Unit filename="/home/nikita/Yandex.Disk/My_programm/SnakeAVR/AvrControl.h">
+			<Option target="SnakeAVR"/>
+		</Unit>
 		<Unit filename="/home/nikita/Yandex.Disk/My_programm/SnakeAVR/main.cpp">
 			<Option target="SnakeAVR"/>
 		</Unit>
