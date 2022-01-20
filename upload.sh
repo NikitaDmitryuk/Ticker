@@ -1,6 +1,6 @@
 #! /bin/bash
 # sudo chmod a+rw /dev/ttyACM0
-# sudo chmod a+rw /dev/ttyUSB0
+sudo chmod a+rw /dev/ttyUSB0
 
 port="/dev/ttyUSB0"
 build_folder_name="cmake-build-debug"
