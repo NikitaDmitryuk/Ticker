@@ -1,5 +1,8 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/SnakeAVR.dir/AvrControl.cpp.o"
+  "CMakeFiles/SnakeAVR.dir/AvrControl.cpp.o.d"
   "CMakeFiles/SnakeAVR.dir/main.cpp.o"
+  "CMakeFiles/SnakeAVR.dir/main.cpp.o.d"
   "SnakeAVR"
   "SnakeAVR.pdb"
 )
